@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an mobile app project that allows users to browse, search, filter and match drivers and passengers.
+- 🌱 I’m currently learning Flutter and Dart and looking for a software engineer job.
+- 😄 I love digital painting.
+
+
 <!--
 **ccheng20/ccheng20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
